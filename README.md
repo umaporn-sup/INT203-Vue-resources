@@ -14,7 +14,7 @@
     - [Daisyui](https://daisyui.com/)
 - (week#2) _`Vue Template Syntax`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/2-2565-Vue-template-syntax.git)
   - References
     - [Vue Template Syntax](https://vuejs.org/guide/essentials/template-syntax.html)
     - [Conditional Rendering](https://vuejs.org/guide/essentials/conditional.html)
