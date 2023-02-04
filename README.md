@@ -20,38 +20,42 @@
     - [Conditional Rendering](https://vuejs.org/guide/essentials/conditional.html)
     - [List Rendering](https://vuejs.org/guide/essentials/list.html)
 
-- (week#3) _`Reactivity Variables`_
+- (week#3) _`Reactivity Variables, Computed Properties, and Form Input Bindings`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/2-2565-Vue-reactive-computed.git)
   - References
     - [Reactivity Fundamentals](https://vuejs.org/guide/essentials/reactivity-fundamentals.html)
     - [Computed Properties](https://vuejs.org/guide/essentials/computed.html)
+    - [Form Input Bindings](https://vuejs.org/guide/essentials/forms.html)
 
-- (week#4) _`Event Handling and Form Input Bindings`_
+- (week#4) _`Event Handling and Class and Style Bindings`_
 
   - [git repo]
   - References
     - [Event Handling](https://vuejs.org/guide/essentials/event-handling.html)
-    - [Form Input Bindings](https://vuejs.org/guide/essentials/forms.html)
-
-- (week#5) _`Class and Style Binding`_
-
-  - [git repo]
-  - References
     - [Class and Style Bindings](https://vuejs.org/guide/essentials/class-and-style.html)
 
-- (week#6) _`Basic Components`_
+- (week#5) _`Basic Components`_
+
   - [git repo]
   - References
     - [Components Basics](https://vuejs.org/guide/essentials/component-basics.html)
+    - [Component Registration](https://vuejs.org/guide/components/registration.html#component-registration)
+    - [Props](https://vuejs.org/guide/components/props.html)
+
+- (week#6) _`Basic Components (Cont.)`_
+
+  - [git repo]
+  - References
+    - [Component Events](https://vuejs.org/guide/components/events.html)
+    - [Lifecycle Hooks](https://vuejs.org/guide/essentials/lifecycle.html#lifecycle-hooks)
+
 - (week#7) _`Components in Depth`_
 
   - [git repo]
   - References
-    - [Registration](https://vuejs.org/guide/components/registration.html)
-    - [Props](https://vuejs.org/guide/components/props.html)
-    - [Component Events](https://vuejs.org/guide/components/events.html)
     - [Slots](https://vuejs.org/guide/components/slots.html)
+    - [Provide/Inject](https://vuejs.org/guide/components/provide-inject.html#provide-inject)
 
 - (week#8) _`Fetch API`_
 
