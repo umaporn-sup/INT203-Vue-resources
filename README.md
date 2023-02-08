@@ -30,7 +30,7 @@
 
 - (week#4) _`Event Handling and Class and Style Bindings`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/2-2565-Vue-event-form-binding.git)
   - References
     - [Event Handling](https://vuejs.org/guide/essentials/event-handling.html)
     - [Class and Style Bindings](https://vuejs.org/guide/essentials/class-and-style.html)
