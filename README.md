@@ -35,20 +35,20 @@
     - [Event Handling](https://vuejs.org/guide/essentials/event-handling.html)
     - [Class and Style Bindings](https://vuejs.org/guide/essentials/class-and-style.html)
 
-- (week#5) _`Basic Components`_
+- (week#5) _`Lifecycle Hooks`_
+
+  - [git repo]
+  - References
+    - [Lifecycle Hooks](https://vuejs.org/guide/essentials/lifecycle.html#lifecycle-hooks)
+
+- (week#6) _`Basic Components`_
 
   - [git repo]
   - References
     - [Components Basics](https://vuejs.org/guide/essentials/component-basics.html)
     - [Component Registration](https://vuejs.org/guide/components/registration.html#component-registration)
     - [Props](https://vuejs.org/guide/components/props.html)
-
-- (week#6) _`Basic Components (Cont.)`_
-
-  - [git repo]
-  - References
     - [Component Events](https://vuejs.org/guide/components/events.html)
-    - [Lifecycle Hooks](https://vuejs.org/guide/essentials/lifecycle.html#lifecycle-hooks)
 
 - (week#7) _`Components in Depth`_
 
