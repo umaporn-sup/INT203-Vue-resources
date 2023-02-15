@@ -37,7 +37,7 @@
 
 - (week#5) _`Lifecycle Hooks`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/2-2565-Vue-LifeCycle.git)
   - References
     - [Lifecycle Hooks](https://vuejs.org/guide/essentials/lifecycle.html#lifecycle-hooks)
 
