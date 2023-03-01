@@ -43,7 +43,7 @@
 
 - (week#6) _`Basic Components`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/2-2565-basic-component.git)
   - References
     - [Components Basics](https://vuejs.org/guide/essentials/component-basics.html)
     - [Component Registration](https://vuejs.org/guide/components/registration.html#component-registration)
