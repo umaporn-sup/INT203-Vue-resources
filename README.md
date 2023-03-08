@@ -52,10 +52,11 @@
 
 - (week#7) _`Components in Depth`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/2-2565-Vue-advance-component.git)
   - References
     - [Slots](https://vuejs.org/guide/components/slots.html)
     - [Provide/Inject](https://vuejs.org/guide/components/provide-inject.html#provide-inject)
+    - [Teleport](https://vuejs.org/guide/built-ins/teleport.html#teleport)
 
 - (week#8) _`Fetch API`_
 
