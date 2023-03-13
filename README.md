@@ -60,7 +60,7 @@
 
 - (week#8) _`Fetch API`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/2-2565-Vue-fetch-API.git)
   - References
     - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
