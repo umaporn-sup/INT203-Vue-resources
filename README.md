@@ -66,9 +66,11 @@
 
 - (week#9) _`Basic Vue Routing`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/2-2565-Vue-router.git)
   - References
     - [Vue Router](https://router.vuejs.org/)
+    - [Vue Router Redirect](https://router.vuejs.org/guide/essentials/redirect-and-alias.html#redirect-and-alias)
+    - [tailwind css for router-link](https://v3.router.vuejs.org/api/#linkactiveclass)
 
 - (week#10) _`Basic State Management`_
 
