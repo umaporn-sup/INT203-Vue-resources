@@ -74,7 +74,7 @@
 
 - (week#10) _`Basic State Management`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/2-2565-Vue-state-management.git)
   - References
     - [Pinia](https://pinia.vuejs.org/)
     <hr/>
